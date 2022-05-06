@@ -1,3 +1,3 @@
 - hi! i'm raccontrash, u can call me bruno. 
-- initially i'm learning html, css and a little bit of java. i have big interest in front-end programming.
-- :P
+- initially i'm learning C, java and a little bit of GoLang. i have big interest in software engineer.
+- :p
