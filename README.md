@@ -1,2 +1,1 @@
 - hi! i'm raccontrash, u can call me bruno. 
-- learning C++ for game and a little bit of web-dev.
